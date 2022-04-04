@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+I am a *newbie* techie.
+I just started my ***Python*** journey.
+I'm currently learning how to navigate Github and it has been a ~~litle frustrating~~ learning process.
